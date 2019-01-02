@@ -1,9 +1,9 @@
 class HelloWorld{
 
-main(String args[])
+	main(String args[])
 {
 
-System.out.println("HelloWorld");
+	System("HelloWorld");
 
 }
 }
