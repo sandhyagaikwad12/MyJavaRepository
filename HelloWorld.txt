@@ -1,14 +1,16 @@
-class HelloWorld{
+class HelloWorld
+{
 
 
-static void myMethod()
+	void welcomeMethod()
 {
 System("HelloWorld");
 }
 
 public static void main(String args[])
 {
+	HelloWorld obj=new HelloWorld();
+        obj.welcomeMethod();
 
-     myMethod();
-
+}
 }
