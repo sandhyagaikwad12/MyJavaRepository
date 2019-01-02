@@ -14,11 +14,10 @@ System("HelloWorld");
 public static void main(String args[])
 {
 	HelloWorld obj=new HelloWorld();
-<<<<<<< HEAD
+
         obj.welcomeMethod();
-=======
+
         obj.myMethod();
->>>>>>> idea
 
 }
 }
