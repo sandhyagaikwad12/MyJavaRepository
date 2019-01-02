@@ -1,9 +1,14 @@
 class HelloWorld{
 
-	main(String args[])
+
+static void myMethod()
+{
+System("HelloWorld");
+}
+
+public static void main(String args[])
 {
 
-	System("HelloWorld");
+     myMethod();
 
-}
 }
